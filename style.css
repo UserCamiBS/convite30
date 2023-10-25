@@ -1,0 +1,110 @@
+    body{
+    background-image:url("dcccfe7da274ddb46be812324ab6c43f.jpg") ;
+    background-attachment: fixed;
+    background-color: black;
+}
+#som{
+    font-family: cursive;
+    position: absolute;
+    left: 25%;
+    top: 5%;
+}
+#video{
+    position: absolute;
+    left: 20%;
+    top: 15%;
+}
+#convite{
+    font-family: cursive;
+    position: absolute;
+    left: 12%;
+    top: 88%;
+    padding: 10px;
+    background-image: url("cadernoo.png");
+    background-size: cover;
+    background-color: blanchedalmond;
+}
+#julio{
+    position: absolute;
+    left: 5%;
+    top: 118%;
+}
+#buffy{
+    position: absolute;
+    left: 58%;
+    top: 150%;
+}
+#blossom{
+    position: absolute;
+    left: 12%;
+    top: 180%;
+}
+#galera{
+    position: absolute;
+    top: 250%;
+    margin: 60px;
+}
+#trazer{
+    position: absolute;
+    top: 254%;
+    margin: 60px;
+}
+#bebida{
+    position: absolute;
+    top: 258%;
+    margin: 60px;
+}
+#pai{
+    position: absolute;
+    top: 262%;
+    margin: 60px;
+}
+#coração{
+    position: absolute;
+    top: 266%;
+    margin: 60px;  
+}
+#regras{
+    font-family: cursive;
+    position: absolute;
+    top: 230%;
+    margin: 60px;
+    padding: 40px;
+    background-size: cover;
+    background-image: url("cadernoo.png");
+}
+#lula{
+    height: 800px;
+    position: relative;
+}
+#lindo{
+    width: 15%;
+    position: absolute;
+    top: 200%;
+    left: 70%;
+    z-index: 1;
+}
+#friends{
+    width: 35%;
+    position: absolute;
+    top: 310%;
+    left: 10%;
+}
+#sms{
+    width: 35%;
+    position: absolute;
+    top: 313%;
+    left: 50%;
+}
+#local{
+    position: absolute;
+    top: 370%;
+    left: 25%;
+}
+#vem{
+    width: 50%;
+    position: absolute;
+    top: 420%;
+    left: 23%;
+    padding-bottom: 10%;
+}
