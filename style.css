@@ -29,15 +29,19 @@ body {
 }
 
 #julio {
-    max-width: 100%; 
+    max-width: 70%; 
     display: block; 
     margin: 0 auto; 
 }
 
-#buffy, #blossom {
-    max-width: 100%;
+#buffy{
+    max-width: 70%;
     display: block;
-    margin: 0 auto;
+    margin-left: 30%;
+}
+#blossom { max-width: 70%;
+    display: block;
+    margin-right: 40%
 }
 
 #regras {
@@ -60,7 +64,13 @@ body {
     width: 15%;
     max-width: 100%;
 }
-
+#imagens-container {
+    display: flex;
+}
+#imagens-container img {
+    max-width: 50%; 
+    margin-right: 10px
+}
 #friends, #sms, #local {
     max-width: 100%;
     display: block;
