@@ -5,9 +5,9 @@
 }
 #som{
     font-family: cursive;
-    position: absolute;
-    left: 25%;
-    top: 5%;
+    position: relative;
+    text-align: center;
+    margin-top: 20;
 }
 #video{
     position: absolute;
@@ -74,7 +74,7 @@
     background-image: url("cadernoo.png");
 }
 #lula{
-    height: 800px;
+    height: 747px;
     position: relative;
 }
 #lindo{
