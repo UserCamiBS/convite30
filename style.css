@@ -1,110 +1,76 @@
-    body{
-    background-image:url("dcccfe7da274ddb46be812324ab6c43f.jpg") ;
+body {
+    background-image: url("dcccfe7da274ddb46be812324ab6c43f.jpg");
     background-attachment: fixed;
     background-color: black;
+    margin: 0;
+    padding: 0;
 }
-#som{
+
+#som {
     font-family: cursive;
-    position: relative;
     text-align: center;
-    margin-top: 20;
+    margin-top: 20px;
 }
-#video{
-    position: absolute;
-    left: 20%;
-    top: 15%;
+
+#video {
+    position: relative;
+    width: 100%;
 }
-#convite{
+
+#convite {
     font-family: cursive;
-    position: absolute;
-    left: 12%;
-    top: 88%;
     padding: 10px;
     background-image: url("cadernoo.png");
     background-size: cover;
     background-color: blanchedalmond;
+    margin: 0 auto; 
+    max-width: 80%; 
+    text-align: center;
 }
-#julio{
-    position: absolute;
-    left: 5%;
-    top: 118%;
+
+#julio {
+    max-width: 100%; 
+    display: block; 
+    margin: 0 auto; 
 }
-#buffy{
-    position: absolute;
-    left: 58%;
-    top: 150%;
+
+#buffy, #blossom {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
 }
-#blossom{
-    position: absolute;
-    left: 12%;
-    top: 180%;
-}
-#galera{
-    position: absolute;
-    top: 250%;
-    margin: 60px;
-}
-#trazer{
-    position: absolute;
-    top: 254%;
-    margin: 60px;
-}
-#bebida{
-    position: absolute;
-    top: 258%;
-    margin: 60px;
-}
-#pai{
-    position: absolute;
-    top: 262%;
-    margin: 60px;
-}
-#coração{
-    position: absolute;
-    top: 266%;
-    margin: 60px;  
-}
-#regras{
+
+#regras {
     font-family: cursive;
-    position: absolute;
-    top: 230%;
-    margin: 60px;
     padding: 40px;
-    background-size: cover;
     background-image: url("cadernoo.png");
+    background-size: cover;
+    margin: 0 auto;
+    max-width: 80%;
+    text-align: center;
 }
-#lula{
-    height: 747px;
-    position: relative;
+
+#lula {
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
 }
-#lindo{
+
+#lindo {
     width: 15%;
-    position: absolute;
-    top: 200%;
-    left: 70%;
-    z-index: 1;
+    max-width: 100%;
 }
-#friends{
-    width: 35%;
-    position: absolute;
-    top: 310%;
-    left: 10%;
+
+#friends, #sms, #local {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
 }
-#sms{
-    width: 35%;
-    position: absolute;
-    top: 313%;
-    left: 50%;
-}
-#local{
-    position: absolute;
-    top: 370%;
-    left: 25%;
-}
-#vem{
+
+#vem {
     width: 50%;
-    position: absolute;
-    top: 420%;
-    left: 23%;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
     padding-bottom: 10%;
 }
